@@ -1,7 +1,8 @@
 #https://github.com/demoyhui/Python-Application
 #encoding:utf_8
 #pip install xlrd #python 2.75
-#pip3 install xlrd #python 3.3
+#only support python 2.75
+
 __metaclass__ = type
 import os
 import glob
